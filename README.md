@@ -93,6 +93,7 @@ endmodule
 
 **RTL Waveform**
 
+
 **Result:**
  Thus I Have, studied and verified the truth table of logic gates in Quartus II using Verilog programming.
 
